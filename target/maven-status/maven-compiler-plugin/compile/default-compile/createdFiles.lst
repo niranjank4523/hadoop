@@ -1,0 +1,3 @@
+com/hadoop/wordcount/WordCountDriver.class
+com/hadoop/wordcount/Map.class
+com/hadoop/wordcount/Reduce.class
